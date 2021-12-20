@@ -3,5 +3,5 @@
 
 ### Voici la liste des personnes ayant travailler dessus :
 - 5TQI
-- 6TQI
+- Jody Van Achter , Mathys Boutry
 ### Description : 
